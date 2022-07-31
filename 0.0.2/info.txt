@@ -1,0 +1,8 @@
+On a Route v0.0.2
+
+Desc.
+This version adds a new command and starter Player stats for future use
+
+Changes:
++ New command
++ Added Player stats

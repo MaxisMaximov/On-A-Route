@@ -1,0 +1,10 @@
+On a Route v0.0.5
+
+Desc.
+This version adds Terminal clearing for cleaner gameplay and a starter Main Menu. Battle mechanic is slightly updated and "event" rates are adjusted
+
+Changes:
++ Terminal Clearing
++ Main Menu
++ Updated Battle mechanic
++ Adjusted Events

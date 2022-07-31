@@ -1,0 +1,7 @@
+On a Route v0.0.4
+
+Desc.
+This version adds a new Battle mechanic 
+
+Changes:
++ New Battle mechanic
