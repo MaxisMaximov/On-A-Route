@@ -1,0 +1,9 @@
+On a Route v0.0.6
+
+Desc.
+This version adds new enemies into play and adds a new Krit mechanic, basically Battle mechanic revamp
+
+Changes:
++ Added new enemies
++ Added Krits
++ Battle mechanic revamped
