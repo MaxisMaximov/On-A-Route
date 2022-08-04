@@ -1,0 +1,13 @@
+On a Route v0.0.7
+
+Desc.
+This version is the official v0.1.0 release (Yes, release), to celebrate it, the game now has a fancy new menu,
+intro animation when launching that's completely unnecessary, it's in a new Executable format and you can exit
+to main menu from inside the game
+
+Changes:
++ Release
++ New Menu
++ Intro Animation
++ Added exiting to main menu
++ Executable reformat
