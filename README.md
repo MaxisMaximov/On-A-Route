@@ -22,3 +22,6 @@ Nah, don't have much stuff for an entire roadmap. I do have a .txt file tho
 
 # Patreon?
 If you think that'll accelerate the development, get the peck outta here
+
+# Note
+I put in the raw files for educational purposes. Don't copy stuff from them. Make your own versions of the code or even improve upon it. If you'll constantly copy code you won't learn anything and remain the same beginner coder you started as
