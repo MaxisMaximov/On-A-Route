@@ -1,0 +1,10 @@
+On a Route v0.1.1
+
+Desc.
+This version adds Save system, meaning you can continue your game after you close it, + auto-save is implemented too.
+Just be sure to put the versions from now on into the same folder, I want future versions to be able to use old saves,
+backwards compatibility not guaranteed
+
+Changes:
++ New Saving System
++ Added Auto Save
