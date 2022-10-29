@@ -1,5 +1,8 @@
 # On-A-Route
 
+# Note
+I put in the raw files for educational purposes. Don't copy stuff from them. Make your own versions of the code or even improve upon it. If you'll constantly copy code you won't learn anything and remain the same beginner coder you started as
+
 # What is this (Basics)
 This is a tiny project of mine
 
@@ -14,6 +17,9 @@ The .exe with version number is right there but ok
 
 No worries tho, planning to replace it with a proper thing from v0.1.0 onwards, the launch file will still be OnARoutevX.X.X.exe tho
 
+# When new release
+Expect a new release every Saturday at 12:00 from now on (29.10.22), both CEST
+
 # Can you add X
 If it fits then yes I guess
 
@@ -22,6 +28,3 @@ Nah, don't have much stuff for an entire roadmap. I do have a .txt file tho
 
 # Patreon?
 If you think that'll accelerate the development, get the peck outta here
-
-# Note
-I put in the raw files for educational purposes. Don't copy stuff from them. Make your own versions of the code or even improve upon it. If you'll constantly copy code you won't learn anything and remain the same beginner coder you started as
