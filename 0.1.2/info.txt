@@ -1,0 +1,13 @@
+On a Route v0.1.2
+
+Desc.
+This version adds new enemies at last and finally uses the Defense mechanic.
+The defense value is in %, so 10 Defense is 10% againsts incoming damage, 25 is 25% etc., although it's a subject to 
+change if it'll cause too much disbalance
+Also some Bug Fixes, like the Only Zombie Fight issue fix and No New Game if Game Over bug.
+I can't believe I skipped over those two so easily
+
+Changes:
++ New Enemies
++ New Defense mechanic
++ Bug Fixes
