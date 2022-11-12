@@ -17,8 +17,8 @@ The .exe with version number is right there but ok
 
 No worries tho, planning to replace it with a proper thing from v0.1.0 onwards, the launch file will still be OnARoutevX.X.X.exe tho
 
-# When new release
-Expect a new release every Saturday at 12:00 from now on (29.10.22), both CEST
+# When is new release
+Expect a new release every Saturday around 12:00 from now on (29.10.22), both CEST
 
 # Can you add X
 If it fits then yes I guess
