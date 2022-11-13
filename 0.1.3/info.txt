@@ -1,0 +1,10 @@
+On a Route v0.1.3
+
+Desc.
+This version adds a new inventory system along with an item index for future extensions.
+The enemies now drop items upon death which you can keep or throw out.
+The items will be sellable/buyable in next update
+
+Changes:
++ New Inventory System
++ New Enemy Drops
